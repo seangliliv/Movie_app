@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838754469371",
+    "project_id": "h3-mobie",
+    "storage_bucket": "h3-mobie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838754469371:android:e8b6ea96a4cf968a9f375e",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMiTIrrBHgRWvoTd6C97tvkYPXIwiMzaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
